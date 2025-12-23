@@ -1,3 +1,9 @@
+# this code is capable of controlling the minecraft running in your pc
+# from basically anywhere u are , through discord or ssh depending on preference
+# its to finish boring tasks such as going to mine certain blocks 
+
+
+
 import pyautogui as p
 import pydirectinput as pd
 import time , keyboard , random
