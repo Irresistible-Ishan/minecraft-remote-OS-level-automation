@@ -1,0 +1,1 @@
+# Pyautogui-Minecraft-onscreenautomation
