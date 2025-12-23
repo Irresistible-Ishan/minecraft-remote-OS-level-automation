@@ -3,6 +3,8 @@
 # its to finish boring tasks such as going to mine certain blocks 
 
 
+# make sure pip install: discord, pyautogui , pydirectinput , keyboard , pillow and such.
+# dont use discord.py rather discord 
 
 import pyautogui as p
 import pydirectinput as pd
@@ -177,5 +179,5 @@ async def on_message(message):
         
 
 
-client.run('MTExMTYzNjQ2MDQ3NTUyMzEzMg.GhwOUa.AMf2mPpvPokmmyX120gBrivZodHK2gTlDjOC1E')
+client.run('your discord bot token here!')
 
