@@ -45,15 +45,21 @@ These observations are directly reflected in the delays and values used in the s
 
 ## 📁 Repository Structure
 
+## Project structure
+
+```text
+minecraft-remote-OS-level-automation/
 ├── discord/
-│ ├── discord_remote_v1.py # Early Discord-controlled movement
-│ └── discord_automation_v2.py # Scriptable remote automation
+│   ├── discord_remote_v1.py        # Early Discord-controlled movement
+│   └── discord_automation_v2.py    # Scriptable remote automation
 ├── local/
-│ └── local_automation.py # Hotkey-driven local automation
+│   └── local_automation.py         # Hotkey-driven local automation
 ├── experiments/
-│ └── mcpi_test.py # Deprecated experimental approach
+│   └── mcpi_test.py                # Deprecated experimental approach
 ├── README.md
-├── LICENSE
+└── LICENSE
+```
+
 
 
 ## Technical Approach
